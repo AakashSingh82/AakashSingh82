@@ -1,4 +1,8 @@
-# <p align="center"><u>I'm Aakash Singh</u></p>
+# <h2 align="center">
+  I'm Aakash Singh
+</h2>
+<hr>
+
 
 
 ## 👨‍💻 Currently working on
