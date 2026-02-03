@@ -1,6 +1,7 @@
-<<h3 align="center">
+<p align="center">
   I'm Aakash Singh💫
-</h3>
+</p>
+<hr style="border:1px solid black;">
 
 ## 👨‍💻 Currently working on
 <br><br>• Data analysis and visualization projects using Python, SQL, Power BI, and Excel<br><br>• Applying Applied AI and Data Science concepts during internships at IBM SkillBuild and Happieloop<br><br>• Building analytical models with a focus on business and financial insights<br><br>
