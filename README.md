@@ -1,6 +1,18 @@
-# <u>I'm Aakash Singh</u>
+# <p align="center"><u>I'm Aakash Singh</u></p>
 
-👨‍💻 Currently working on<br><br>Data analysis and visualization projects using Python, SQL, Power BI, and Excel<br><br>Applying Applied AI and Data Science concepts during internships at IBM SkillBuild and Happieloop<br><br>Building analytical models with a focus on business and financial insights<br><br>🤝 Looking to collaborate on<br><br>Data Analytics projects (EDA, dashboards, reporting)<br><br>Machine Learning–based analytical projects<br><br>Business intelligence and data visualization use cases<br><br>Open-source or academic projects related to data-driven decision making<br><br>🆘 Looking for help with<br><br>Improving real-world data analytics workflows<br><br>Best practices in SQL optimization and dashboard storytelling<br><br>Guidance on industry-ready data analyst projects and case studies<br><br>📚 Currently learning<br><br>Advanced Data Analytics techniques<br><br>Machine Learning fundamentals and practical applications<br><br>Statistical analysis for business and financial data<br><br>Improving proficiency in Power BI dashboards and data modeling<br><br>💬 Ask me about<br><br>Python for data analysis<br><br>SQL queries and data cleaning<br><br>Power BI dashboards<br><br>Statistics and EDA<br><br>My project on Capital Asset Pricing Model (CAPM) using Machine Learning<br><br>🎯 Career focus<br>Interested in roles involving data analysis, reporting, and business insights
+
+## 👨‍💻 Currently working on
+<br><br>Data analysis and visualization projects using Python, SQL, Power BI, and Excel<br><br>Applying Applied AI and Data Science concepts during internships at IBM SkillBuild and Happieloop<br><br>Building analytical models with a focus on business and financial insights<br><br>
+## 🤝 Looking to collaborate on
+<br><br>Data Analytics projects (EDA, dashboards, reporting)<br><br>Machine Learning–based analytical projects<br><br>Business intelligence and data visualization use cases<br><br>Open-source or academic projects related to data-driven decision making<br><br>
+## 🆘 Looking for help with
+<br><br>Improving real-world data analytics workflows<br><br>Best practices in SQL optimization and dashboard storytelling<br><br>Guidance on industry-ready data analyst projects and case studies<br><br>
+## 📚 Currently learning
+<br><br>Advanced Data Analytics techniques<br><br>Machine Learning fundamentals and practical applications<br><br>Statistical analysis for business and financial data<br><br>Improving proficiency in Power BI dashboards and data modeling<br><br>
+## 💬 Ask me about
+<br><br>Python for data analysis<br><br>SQL queries and data cleaning<br><br>Power BI dashboards<br><br>Statistics and EDA<br><br>My project on Capital Asset Pricing Model (CAPM) using Machine Learning<br><br>
+## 🎯 Career focus
+<br>Interested in roles involving data analysis, reporting, and business insights
 
 
 ## 🌐 Socials:
